@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+url: https://trust.cape.co/
+certifications:
+- SOC 2 Type 1
+compliance:
+- name: SOC 2 Type 1
+  scope: all five Trust Services Criteria (Security, Availability, Confidentiality, Processing Integrity, Privacy)
+  status: achieved
+- name: SOC 2 Type 2
+  status: in-progress
+  note: audit window scheduled to complete by Q4 2025
+evidence:
+- source: https://trust.cape.co/
+  keywords: [trust center, soc 2, compliance, security]
+- source: https://www.cape.co/about
+  note: Cape publicly announces SOC 2 Type 1 compliance across all five Trust Services Criteria

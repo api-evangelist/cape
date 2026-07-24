@@ -1,0 +1,24 @@
+# Cape
+
+> Cape is a privacy-first U.S. mobile carrier (MVNO) that runs its own mobile core and SIMs on leased tower infrastructure, adding privacy-enhancing controls such as daily identifier rotation, minimal data collection, disappearing call logs, SIM-swap protection, and secure global roaming. Cape serves privacy-conscious consumers, enterprises, and government agencies. Cape publishes no public developer API; this profile is an API Evangelist network company record.
+
+## Company
+- [Cape home](https://www.cape.co/): Privacy-first mobile carrier overview and offerings
+- [About Cape](https://www.cape.co/about): Company mission, team, and SOC 2 compliance
+- [Careers](https://www.cape.co/careers): Open roles at Cape
+- [Contact](https://www.cape.co/contact): Company contact
+- [Press](https://www.cape.co/press-original): Press and media
+
+## Product & Support
+- [Get Cape (Sign up)](https://www.cape.co/get-cape): Start privacy mobile service
+- [Help Center](https://support.cape.co): Support documentation
+- [FAQs](https://www.cape.co/faqs): Frequently asked questions
+- [Blog](https://www.cape.co/blog): Cape research and privacy writing
+- [Research](https://www.cape.co/research): Cape security and privacy research
+
+## Trust & Legal
+- [Trust Center](https://trust.cape.co/): Security posture and SOC 2 Type 1 compliance
+- [Vulnerability Disclosure](https://cape.co/vulnerability-disclosure): Responsible disclosure policy (security@cape.co)
+- [security.txt](https://www.cape.co/.well-known/security.txt): RFC 9116 security contact
+- [Privacy Policy](https://www.cape.co/privacy-summary): Privacy summary
+- [Terms of Service](https://www.cape.co/terms-of-service): Terms of service

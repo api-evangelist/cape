@@ -1,0 +1,21 @@
+{
+  "repo": "cape",
+  "feeds": [
+    {
+      "source": "https://support.cape.co",
+      "feed_url": "https://support.cape.co",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.cape.co/blog",
+      "feed_url": "https://www.cape.co/blog/rss.xml",
+      "title": "",
+      "saved": 3,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 3,
+  "fetched": "2026-07-20T13:31:34Z"
+}

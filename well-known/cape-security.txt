@@ -1,0 +1,4 @@
+Contact: https://cape.co/vulnerability-disclosure
+Contact: mailto:security@cape.co
+Preferred-Languages: en
+Canonical: https://cape.co/.well-known/security.txt

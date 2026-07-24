@@ -1,8 +1,31 @@
 aid: cape
 name: Cape
-description: Cape is a company surfaced as a portfolio company of a16z, bain-capital-ventures, costanoa-ventures,
-  ivp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting
-  the enrichment pipeline.
+description: >-
+  Cape is a privacy-first U.S. mobile carrier (mobile virtual network operator)
+  that leases physical tower capacity from major operators but builds and runs
+  its own mobile core and SIMs, enabling privacy-enhancing controls that
+  traditional carriers cannot offer. Features include daily identifier rotation
+  (changing SIM ID numbers to disrupt persistent tracking), minimal data
+  collection, disappearing call logs, secondary phone numbers, SIM-swap
+  protection, network lock, and secure global roaming. Founded in 2022 by John
+  Doyle and Nicholas Espinoza and headquartered in Arlington, Cape serves
+  privacy-conscious consumers, enterprises, and U.S. government agencies, and has
+  raised roughly $190M from investors including Andreessen Horowitz, Bain Capital
+  Ventures, IVP, and Costanoa Ventures. Cape publishes no public developer API;
+  this profile is an API Evangelist network company record enriched from Cape's
+  public web surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.sanity.io/images/9u514z6s/development/608e15873d6f442b9a990c5839a4d37940cbd047-1600x900.png
 url: https://raw.githubusercontent.com/api-evangelist/cape/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,9 +38,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Privacy
+- Mobile
+- Telecommunications
+- Carrier
+- MVNO
+- Security
+- Consumer
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +57,41 @@ maintainers:
 common:
 - type: Website
   url: https://www.cape.co/
+- type: Support
+  url: https://support.cape.co
+- type: HelpCenter
+  url: https://support.cape.co
+- type: Blog
+  url: https://www.cape.co/blog
+- type: BlogRSS
+  url: https://www.cape.co/blog/rss.xml
+- type: SignUp
+  url: https://www.cape.co/get-cape
+- type: TermsOfService
+  url: https://www.cape.co/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.cape.co/privacy-summary
+- type: TrustCenter
+  url: https://trust.cape.co/
+- type: Compliance
+  url: https://trust.cape.co/
+- type: Security
+  url: https://cape.co/vulnerability-disclosure
+- type: VulnerabilityDisclosure
+  url: security/cape-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/cape-domain-security.yml
+- type: TrustCenter
+  name: Cape Trust Center artifact
+  url: security/cape-trust-center.yml
+- type: SecurityTxt
+  url: well-known/cape-security.txt
+- type: WellKnown
+  url: well-known/cape-well-known.yml
+- type: LLMsTxt
+  url: llms/cape-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
