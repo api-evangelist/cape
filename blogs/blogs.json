@@ -9,13 +9,20 @@
       "method": "none"
     },
     {
+      "source": "https://www.cape.co/blog/rss.xml",
+      "feed_url": "https://www.cape.co/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.cape.co/blog",
       "feed_url": "https://www.cape.co/blog/rss.xml",
       "title": "",
-      "saved": 3,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 51,
+  "fetched": "2026-08-01T15:49:00Z"
 }
