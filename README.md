@@ -64,6 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cape is a company surfaced as a portfolio company of a16z, bain-capital-ventures, costanoa-ventures, ivp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Cape is a privacy-first U.S. mobile carrier (mobile virtual network operator) that leases physical tower capacity from major operators but builds and runs its own mobile core and SIMs, enabling privacy-enhancing controls that traditional carriers cannot offer. Features include daily identifier rotation (changing SIM ID numbers to disrupt persistent tracking), minimal data collection, disappearing call logs, secondary phone numbers, SIM-swap protection, network lock, and secure global roaming. Founded in 2022 by John Doyle and Nicholas Espinoza and headquartered in Arlington, Cape serves privacy-conscious consumers, enterprises, and U.S. government agencies, and has raised roughly $190M from investors including Andreessen Horowitz, Bain Capital Ventures, IVP, and Costanoa Ventures. Cape publishes no public developer API; this profile is an API Evangelist network company record enriched from Cape's public web surface.
 
-Backed by: a16z, bain-capital-ventures, costanoa-ventures, ivp — https://www.cape.co/
+**Areas:** Company · Privacy · Mobile · Telecommunications · Carrier · MVNO · Security · Consumer
+
+## Cape on APIs.io
+
+Everything profiled for Cape is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cape/](https://apis.io/providers/cape/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cape Domain Security](https://apis.io/security/cape/cape-domain-security/)
+- [Cape Trust Center](https://apis.io/security/cape/cape-trust-center/)
+- [Cape Vulnerability Disclosure](https://apis.io/security/cape/cape-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cape.co/)
+- [Sign up](https://www.cape.co/get-cape)
+- [Support](https://support.cape.co)
+- [Blog](https://www.cape.co/blog)
+- [Security](https://cape.co/vulnerability-disclosure)
+- [Compliance](https://trust.cape.co/)
+- [Trust centre](https://trust.cape.co/)
+- [Terms of service](https://www.cape.co/terms-of-service)
+- [Privacy policy](https://www.cape.co/privacy-summary)
+
+## API Evangelist rating
+
+**Kin Score 18.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 20.8** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cape/](https://apis.io/providers/cape/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cape: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cape/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
